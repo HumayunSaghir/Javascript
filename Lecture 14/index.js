@@ -10,7 +10,7 @@
 // console.log(nums1)
 // console.log(nums2)
 
-let nums1 = new Array(1, 2, 3, 4, 5, "Alexa")
+// let nums1 = new Array(1, 2, 3, 4, 5, "Alexa")
 // console.log(nums1)
 // console.log(typeof nums1)
 
