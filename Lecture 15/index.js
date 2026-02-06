@@ -40,3 +40,7 @@
 
 // let arr = Array.of(num1, num2, num3)
 // console.log(arr)
+
+let num = 123456
+let arr = Array.from(String(num), Number)
+console.log(arr)
