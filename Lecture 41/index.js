@@ -1,0 +1,5 @@
+fetch("https://api.github.com/users/humayunsaghir")
+.then((response) => response.json())
+.then((data) => console.log(data))
+.catch((err) => console.log("error in promise completion"))
+.finally(() => console.log("promise is either fulfilled or rejected"))
