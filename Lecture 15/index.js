@@ -4,7 +4,7 @@
 // console.log(arr1)
 
 // let arr1 = ["toyota", "honda", "suzuki"]
-// let arr2 = ["iphone", "samsung", "oppo"]
+// let arr2 = ["iphone", "samsung" , "oppo"]
 // let arr3 = arr1.concat(arr2)
 // console.log(arr3.length)
 
