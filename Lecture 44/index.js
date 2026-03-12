@@ -33,3 +33,4 @@ function createUser(username, email, age){
 
 const userOne = new createUser("aaxe", "abc@gmail.com", 22)
 console.log(userOne)
+console.log(userOne)
